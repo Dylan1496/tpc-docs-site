@@ -60,6 +60,9 @@ The Commands are as follows:
 
 - __/sync__ 
   - Allows members to sync their VATSIM ratings with our discord.
+ 
+- __/taf__ _{insert airport ICAO code}_
+  - Get the TAF for a given airport ICAO
 
 - __/user__ 
   - Tells you your tag and discord id
